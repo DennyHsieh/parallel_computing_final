@@ -1,0 +1,163 @@
+Currently Loaded Modulefiles:
+  1) pgi/17.10                2) openmpi/pgi/2.1.2/2017
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000454 seconds
+.[cn0321:48648] 1 more process has sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:48648] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000508 seconds
+.[cn0321:48697] 2 more processes have sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:48697] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000451 seconds
+.[cn0321:48753] 3 more processes have sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:48753] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000510 seconds
+.[cn0321:48835] 4 more processes have sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:48835] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000523 seconds
+.[cn0321:48919] 5 more processes have sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:48919] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000524 seconds
+.[cn0321:49029] 6 more processes have sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:49029] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries,
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+for prime 2 ,6 is a perfect number 
+for prime 3 ,28 is a perfect number 
+for prime 5 ,496 is a perfect number 
+for prime 7 ,8128 is a perfect number 
+for prime 13 ,33550336 is a perfect number 
+for prime 17 ,8589869056 is a perfect number 
+for prime 19 ,137438691328 is a perfect number 
+for prime 31 ,2305843008139952128 is a perfect number 
+The program spends 0.000477 seconds
+.[cn0321:49142] 7 more processes have sent help message help-mpi-common-cuda.txt / dlopen failed
+[cn0321:49142] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

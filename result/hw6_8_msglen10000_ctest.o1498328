@@ -1,0 +1,27 @@
+Currently Loaded Modulefiles:
+  1) pgi/17.10                2) openmpi/pgi/2.1.2/2017
+It takes in average 0.0000000365 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000373 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000376 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000356 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000374 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000373 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000367 seconds for trying sending the message 1000000 time with length 10000 byte.
+It takes in average 0.0000000373 seconds for trying sending the message 1000000 time with length 10000 byte.
+
+It takes in average 0.0000000335 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000369 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000674 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000460 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000544 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000546 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000485 seconds for trying sending the message 10000000 time with length 20 byte.
+
+It takes in average 0.0000000339 seconds for trying sending the message 10000000 time with length 20 byte.
+
